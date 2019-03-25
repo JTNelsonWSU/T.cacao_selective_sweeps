@@ -1,0 +1,744 @@
+GO ID	GO Name	GO Category	FDR	P-Value	Population
+GO:0006722	triterpenoid metabolic process	BIOLOGICAL_PROCESS	0.02161647	1.13E-06	Amelonado
+GO:0016143	S-glycoside metabolic process	BIOLOGICAL_PROCESS	0.014800825	4.64E-06	Contamana
+GO:0019760	glucosinolate metabolic process	BIOLOGICAL_PROCESS	0.014800825	4.64E-06	Contamana
+GO:0019757	glycosinolate metabolic process	BIOLOGICAL_PROCESS	0.014800825	4.64E-06	Contamana
+GO:0006480	N-terminal protein amino acid methylation	BIOLOGICAL_PROCESS	0.014800825	1.20E-06	Contamana
+GO:0043436	oxoacid metabolic process	BIOLOGICAL_PROCESS	0.014800825	2.38E-06	Contamana
+GO:0006082	organic acid metabolic process	BIOLOGICAL_PROCESS	0.014800825	2.92E-06	Contamana
+GO:0010048	vernalization response	BIOLOGICAL_PROCESS	0.018596906	6.80E-06	Contamana
+GO:0006629	lipid metabolic process	BIOLOGICAL_PROCESS	0.018612722	7.77E-06	Contamana
+GO:0044281	small molecule metabolic process	BIOLOGICAL_PROCESS	0.024524258	1.15E-05	Contamana
+GO:0006633	fatty acid biosynthetic process	BIOLOGICAL_PROCESS	0.038653875	2.02E-05	Contamana
+GO:0008843	endochitinase activity	MOLECULAR_FUNCTION	1.74E-06	1.81E-10	Criollo
+GO:1901072	glucosamine-containing compound catabolic process	BIOLOGICAL_PROCESS	5.54E-06	1.16E-09	Criollo
+GO:0006032	chitin catabolic process	BIOLOGICAL_PROCESS	5.54E-06	1.16E-09	Criollo
+GO:0046348	amino sugar catabolic process	BIOLOGICAL_PROCESS	7.24E-06	1.89E-09	Criollo
+GO:0006026	aminoglycan catabolic process	BIOLOGICAL_PROCESS	1.21E-05	4.44E-09	Criollo
+GO:0006030	chitin metabolic process	BIOLOGICAL_PROCESS	1.21E-05	3.89E-09	Criollo
+GO:0005618	cell wall	CELLULAR_COMPONENT	2.89E-05	1.36E-08	Criollo
+GO:1901071	glucosamine-containing compound metabolic process	BIOLOGICAL_PROCESS	2.89E-05	1.27E-08	Criollo
+GO:0030312	external encapsulating structure	CELLULAR_COMPONENT	3.07E-05	1.60E-08	Criollo
+GO:0004568	chitinase activity	MOLECULAR_FUNCTION	1.02E-04	5.84E-08	Criollo
+GO:0006040	amino sugar metabolic process	BIOLOGICAL_PROCESS	3.76E-04	2.36E-07	Criollo
+GO:0070555	response to interleukin-1	BIOLOGICAL_PROCESS	0.001721231	1.17E-06	Criollo
+GO:0004866	endopeptidase inhibitor activity	MOLECULAR_FUNCTION	0.00394847	2.89E-06	Criollo
+GO:0006022	aminoglycan metabolic process	BIOLOGICAL_PROCESS	0.004184749	3.28E-06	Criollo
+GO:0034612	response to tumor necrosis factor	BIOLOGICAL_PROCESS	0.004189453	3.50E-06	Criollo
+GO:0061135	endopeptidase regulator activity	MOLECULAR_FUNCTION	0.004660067	4.14E-06	Criollo
+GO:0030414	peptidase inhibitor activity	MOLECULAR_FUNCTION	0.004926906	4.63E-06	Criollo
+GO:0042737	drug catabolic process	BIOLOGICAL_PROCESS	0.005230363	5.19E-06	Criollo
+GO:0071944	cell periphery	CELLULAR_COMPONENT	0.010483491	1.09E-05	Criollo
+GO:0005576	extracellular region	CELLULAR_COMPONENT	0.010871728	1.19E-05	Criollo
+GO:0010466	negative regulation of peptidase activity	BIOLOGICAL_PROCESS	0.012661364	1.45E-05	Criollo
+GO:0061134	peptidase regulator activity	MOLECULAR_FUNCTION	0.016978764	2.07E-05	Criollo
+GO:0044421	extracellular region part	CELLULAR_COMPONENT	0.016978764	2.13E-05	Criollo
+GO:1901136	carbohydrate derivative catabolic process	BIOLOGICAL_PROCESS	0.017870293	2.33E-05	Criollo
+GO:0051346	negative regulation of hydrolase activity	BIOLOGICAL_PROCESS	0.020774797	2.82E-05	Criollo
+GO:0006954	inflammatory response	BIOLOGICAL_PROCESS	0.0320066	4.51E-05	Criollo
+GO:1901700	response to oxygen-containing compound	BIOLOGICAL_PROCESS	4.33E-12	2.26E-16	Curaray
+GO:0006979	response to oxidative stress	BIOLOGICAL_PROCESS	1.45E-10	1.52E-14	Curaray
+GO:0050268	coniferyl-alcohol dehydrogenase activity	MOLECULAR_FUNCTION	9.96E-10	1.56E-13	Curaray
+GO:0009816	defense response to bacterium, incompatible interaction	BIOLOGICAL_PROCESS	2.44E-09	5.10E-13	Curaray
+GO:0009605	response to external stimulus	BIOLOGICAL_PROCESS	8.52E-09	2.22E-12	Curaray
+GO:0001101	response to acid chemical	BIOLOGICAL_PROCESS	2.87E-08	8.98E-12	Curaray
+GO:0010033	response to organic substance	BIOLOGICAL_PROCESS	2.96E-08	1.08E-11	Curaray
+GO:0051707	response to other organism	BIOLOGICAL_PROCESS	2.98E-08	1.54E-11	Curaray
+GO:0050896	response to stimulus	BIOLOGICAL_PROCESS	2.98E-08	1.64E-11	Curaray
+GO:0009607	response to biotic stimulus	BIOLOGICAL_PROCESS	2.98E-08	1.71E-11	Curaray
+GO:0043207	response to external biotic stimulus	BIOLOGICAL_PROCESS	2.98E-08	1.54E-11	Curaray
+GO:0000302	response to reactive oxygen species	BIOLOGICAL_PROCESS	4.10E-08	2.57E-11	Curaray
+GO:0045551	cinnamyl-alcohol dehydrogenase activity	MOLECULAR_FUNCTION	4.69E-08	3.18E-11	Curaray
+GO:0004672	protein kinase activity	MOLECULAR_FUNCTION	5.74E-08	4.19E-11	Curaray
+GO:0006950	response to stress	BIOLOGICAL_PROCESS	7.16E-08	5.61E-11	Curaray
+GO:0042221	response to chemical	BIOLOGICAL_PROCESS	7.58E-08	6.33E-11	Curaray
+GO:0009725	response to hormone	BIOLOGICAL_PROCESS	3.31E-07	2.94E-10	Curaray
+GO:0016773	phosphotransferase activity, alcohol group as acceptor	MOLECULAR_FUNCTION	9.27E-07	8.71E-10	Curaray
+GO:0009719	response to endogenous stimulus	BIOLOGICAL_PROCESS	1.29E-06	1.28E-09	Curaray
+GO:0006952	defense response	BIOLOGICAL_PROCESS	1.61E-06	1.72E-09	Curaray
+GO:0016899	oxidoreductase activity, acting on the CH-OH group of donors, oxygen as acceptor	MOLECULAR_FUNCTION	1.61E-06	1.76E-09	Curaray
+GO:0016301	kinase activity	MOLECULAR_FUNCTION	3.29E-06	3.78E-09	Curaray
+GO:0097305	response to alcohol	BIOLOGICAL_PROCESS	4.29E-06	5.15E-09	Curaray
+GO:0042742	defense response to bacterium	BIOLOGICAL_PROCESS	5.98E-06	7.49E-09	Curaray
+GO:0009751	response to salicylic acid	BIOLOGICAL_PROCESS	6.94E-06	9.05E-09	Curaray
+GO:0009814	defense response, incompatible interaction	BIOLOGICAL_PROCESS	1.14E-05	1.55E-08	Curaray
+GO:0009617	response to bacterium	BIOLOGICAL_PROCESS	1.18E-05	1.66E-08	Curaray
+GO:0009737	response to abscisic acid	BIOLOGICAL_PROCESS	2.02E-05	2.96E-08	Curaray
+GO:0046677	response to antibiotic	BIOLOGICAL_PROCESS	2.07E-05	3.13E-08	Curaray
+GO:0042493	response to drug	BIOLOGICAL_PROCESS	3.45E-05	5.41E-08	Curaray
+GO:0014070	response to organic cyclic compound	BIOLOGICAL_PROCESS	3.69E-05	5.97E-08	Curaray
+GO:0098542	defense response to other organism	BIOLOGICAL_PROCESS	4.19E-05	7.12E-08	Curaray
+GO:1901806	beta-glucoside biosynthetic process	BIOLOGICAL_PROCESS	4.19E-05	7.22E-08	Curaray
+GO:1900992	(-)-secologanin metabolic process	BIOLOGICAL_PROCESS	6.83E-05	1.25E-07	Curaray
+GO:1900994	(-)-secologanin biosynthetic process	BIOLOGICAL_PROCESS	6.83E-05	1.25E-07	Curaray
+GO:0033993	response to lipid	BIOLOGICAL_PROCESS	7.47E-05	1.40E-07	Curaray
+GO:1902479	positive regulation of defense response to bacterium, incompatible interaction	BIOLOGICAL_PROCESS	1.53E-04	2.96E-07	Curaray
+GO:0034486	vacuolar transmembrane transport	BIOLOGICAL_PROCESS	2.18E-04	4.33E-07	Curaray
+GO:0016020	membrane	CELLULAR_COMPONENT	3.03E-04	6.17E-07	Curaray
+GO:1902334	fructose export from vacuole to cytoplasm	BIOLOGICAL_PROCESS	5.77E-04	1.21E-06	Curaray
+GO:0045087	innate immune response	BIOLOGICAL_PROCESS	5.77E-04	1.24E-06	Curaray
+GO:0010726	positive regulation of hydrogen peroxide metabolic process	BIOLOGICAL_PROCESS	6.50E-04	1.46E-06	Curaray
+GO:1901804	beta-glucoside metabolic process	BIOLOGICAL_PROCESS	6.50E-04	1.45E-06	Curaray
+GO:0046275	flavonoid catabolic process	BIOLOGICAL_PROCESS	0.001243096	2.99E-06	Curaray
+GO:0046284	anthocyanin-containing compound catabolic process	BIOLOGICAL_PROCESS	0.001243096	2.99E-06	Curaray
+GO:1900000	regulation of anthocyanin catabolic process	BIOLOGICAL_PROCESS	0.001243096	2.99E-06	Curaray
+GO:0009820	alkaloid metabolic process	BIOLOGICAL_PROCESS	0.001279264	3.14E-06	Curaray
+GO:0016310	phosphorylation	BIOLOGICAL_PROCESS	0.001363236	3.48E-06	Curaray
+GO:1902477	regulation of defense response to bacterium, incompatible interaction	BIOLOGICAL_PROCESS	0.001363236	3.49E-06	Curaray
+GO:0051194	positive regulation of cofactor metabolic process	BIOLOGICAL_PROCESS	0.001683626	4.40E-06	Curaray
+GO:0006955	immune response	BIOLOGICAL_PROCESS	0.001730907	4.97E-06	Curaray
+GO:0050139	nicotinate-N-glucosyltransferase activity	MOLECULAR_FUNCTION	0.001730907	4.93E-06	Curaray
+GO:0050636	vinorine synthase activity	MOLECULAR_FUNCTION	0.001730907	4.93E-06	Curaray
+GO:0047807	cytokinin 7-beta-glucosyltransferase activity	MOLECULAR_FUNCTION	0.001730907	4.93E-06	Curaray
+GO:0080062	cytokinin 9-beta-glucosyltransferase activity	MOLECULAR_FUNCTION	0.001730907	4.93E-06	Curaray
+GO:0005353	fructose transmembrane transporter activity	MOLECULAR_FUNCTION	0.001837176	5.37E-06	Curaray
+GO:0015755	fructose transmembrane transport	BIOLOGICAL_PROCESS	0.002311581	6.88E-06	Curaray
+GO:0002239	response to oomycetes	BIOLOGICAL_PROCESS	0.003060888	9.27E-06	Curaray
+GO:0004674	protein serine/threonine kinase activity	MOLECULAR_FUNCTION	0.003574386	1.10E-05	Curaray
+GO:1901701	cellular response to oxygen-containing compound	BIOLOGICAL_PROCESS	0.003778917	1.18E-05	Curaray
+GO:0005886	plasma membrane	CELLULAR_COMPONENT	0.004956876	1.58E-05	Curaray
+GO:0071944	cell periphery	CELLULAR_COMPONENT	0.004956876	1.60E-05	Curaray
+GO:0015089	high-affinity copper ion transmembrane transporter activity	MOLECULAR_FUNCTION	0.005928181	1.95E-05	Curaray
+GO:0016138	glycoside biosynthetic process	BIOLOGICAL_PROCESS	0.007118101	2.42E-05	Curaray
+GO:0033231	carbohydrate export	BIOLOGICAL_PROCESS	0.007118101	2.41E-05	Curaray
+GO:0140096	catalytic activity, acting on a protein	MOLECULAR_FUNCTION	0.007702206	2.65E-05	Curaray
+GO:0004888	transmembrane signaling receptor activity	MOLECULAR_FUNCTION	0.007995422	2.80E-05	Curaray
+GO:0009642	response to light intensity	BIOLOGICAL_PROCESS	0.011772877	4.18E-05	Curaray
+GO:0043621	protein self-association	MOLECULAR_FUNCTION	0.012159673	4.38E-05	Curaray
+GO:0045089	positive regulation of innate immune response	BIOLOGICAL_PROCESS	0.0122103	4.46E-05	Curaray
+GO:0051260	protein homooligomerization	BIOLOGICAL_PROCESS	0.016750766	6.21E-05	Curaray
+GO:1905200	gibberellic acid transmembrane transport	BIOLOGICAL_PROCESS	0.017146419	6.63E-05	Curaray
+GO:1905201	gibberellin transmembrane transporter activity	MOLECULAR_FUNCTION	0.017146419	6.63E-05	Curaray
+GO:0042631	cellular response to water deprivation	BIOLOGICAL_PROCESS	0.017146419	6.62E-05	Curaray
+GO:0051704	multi-organism process	BIOLOGICAL_PROCESS	0.017537993	6.87E-05	Curaray
+GO:0046184	aldehyde biosynthetic process	BIOLOGICAL_PROCESS	0.017598773	6.98E-05	Curaray
+GO:0102805	codeine O-demethylase activity	MOLECULAR_FUNCTION	0.018216477	7.41E-05	Curaray
+GO:0008515	sucrose transmembrane transporter activity	MOLECULAR_FUNCTION	0.018216477	7.42E-05	Curaray
+GO:0010310	regulation of hydrogen peroxide metabolic process	BIOLOGICAL_PROCESS	0.018332299	7.56E-05	Curaray
+GO:0071215	cellular response to abscisic acid stimulus	BIOLOGICAL_PROCESS	0.019617264	8.19E-05	Curaray
+GO:2000008	regulation of protein localization to cell surface	BIOLOGICAL_PROCESS	0.020130711	8.51E-05	Curaray
+GO:0071462	cellular response to water stimulus	BIOLOGICAL_PROCESS	0.02176681	9.32E-05	Curaray
+GO:0038023	signaling receptor activity	MOLECULAR_FUNCTION	0.022333391	9.68E-05	Curaray
+GO:0015157	oligosaccharide transmembrane transporter activity	MOLECULAR_FUNCTION	0.023072741	1.10E-04	Curaray
+GO:0015154	disaccharide transmembrane transporter activity	MOLECULAR_FUNCTION	0.023072741	1.10E-04	Curaray
+GO:0002376	immune system process	BIOLOGICAL_PROCESS	0.023072741	1.09E-04	Curaray
+GO:0002752	cell surface pattern recognition receptor signaling pathway	BIOLOGICAL_PROCESS	0.023072741	1.06E-04	Curaray
+GO:0060089	molecular transducer activity	MOLECULAR_FUNCTION	0.023072741	1.09E-04	Curaray
+GO:2001080	chitosan binding	MOLECULAR_FUNCTION	0.023072741	1.06E-04	Curaray
+GO:0008219	cell death	BIOLOGICAL_PROCESS	0.023072741	1.04E-04	Curaray
+GO:0032499	detection of peptidoglycan	BIOLOGICAL_PROCESS	0.023072741	1.06E-04	Curaray
+GO:0097306	cellular response to alcohol	BIOLOGICAL_PROCESS	0.026284737	1.27E-04	Curaray
+GO:0009991	response to extracellular stimulus	BIOLOGICAL_PROCESS	0.026284737	1.28E-04	Curaray
+GO:0015020	glucuronosyltransferase activity	MOLECULAR_FUNCTION	0.029268106	1.44E-04	Curaray
+GO:0009646	response to absence of light	BIOLOGICAL_PROCESS	0.029268106	1.45E-04	Curaray
+GO:0046685	response to arsenic-containing substance	BIOLOGICAL_PROCESS	0.029405931	1.47E-04	Curaray
+GO:0009506	plasmodesma	CELLULAR_COMPONENT	0.030540959	1.56E-04	Curaray
+GO:0055044	symplast	CELLULAR_COMPONENT	0.030540959	1.56E-04	Curaray
+GO:0031668	cellular response to extracellular stimulus	BIOLOGICAL_PROCESS	0.030751931	1.59E-04	Curaray
+GO:0009628	response to abiotic stimulus	BIOLOGICAL_PROCESS	0.030917162	1.61E-04	Curaray
+GO:0005911	cell-cell junction	CELLULAR_COMPONENT	0.032676684	1.72E-04	Curaray
+GO:0050778	positive regulation of immune response	BIOLOGICAL_PROCESS	0.034530355	1.84E-04	Curaray
+GO:0071396	cellular response to lipid	BIOLOGICAL_PROCESS	0.036074744	1.94E-04	Curaray
+GO:0031349	positive regulation of defense response	BIOLOGICAL_PROCESS	0.036093818	1.96E-04	Curaray
+GO:0009620	response to fungus	BIOLOGICAL_PROCESS	0.038017256	2.08E-04	Curaray
+GO:0016098	monoterpenoid metabolic process	BIOLOGICAL_PROCESS	0.039446211	2.20E-04	Curaray
+GO:0016099	monoterpenoid biosynthetic process	BIOLOGICAL_PROCESS	0.039446211	2.20E-04	Curaray
+GO:0050896	response to stimulus	BIOLOGICAL_PROCESS	2.70E-08	2.63E-12	Guianna
+GO:0048856	anatomical structure development	BIOLOGICAL_PROCESS	2.70E-08	2.82E-12	Guianna
+GO:0007275	multicellular organism development	BIOLOGICAL_PROCESS	5.15E-08	8.07E-12	Guianna
+GO:0032502	developmental process	BIOLOGICAL_PROCESS	5.17E-08	1.08E-11	Guianna
+GO:0051707	response to other organism	BIOLOGICAL_PROCESS	9.39E-08	3.43E-11	Guianna
+GO:0009607	response to biotic stimulus	BIOLOGICAL_PROCESS	9.39E-08	3.18E-11	Guianna
+GO:0043207	response to external biotic stimulus	BIOLOGICAL_PROCESS	9.39E-08	3.43E-11	Guianna
+GO:0032501	multicellular organismal process	BIOLOGICAL_PROCESS	1.01E-07	4.24E-11	Guianna
+GO:0006952	defense response	BIOLOGICAL_PROCESS	4.13E-07	1.94E-10	Guianna
+GO:0009605	response to external stimulus	BIOLOGICAL_PROCESS	5.29E-07	2.76E-10	Guianna
+GO:0048731	system development	BIOLOGICAL_PROCESS	6.04E-07	3.47E-10	Guianna
+GO:0098542	defense response to other organism	BIOLOGICAL_PROCESS	9.97E-06	6.25E-09	Guianna
+GO:0016020	membrane	CELLULAR_COMPONENT	1.26E-05	8.57E-09	Guianna
+GO:0042221	response to chemical	BIOLOGICAL_PROCESS	3.81E-05	2.78E-08	Guianna
+GO:0009719	response to endogenous stimulus	BIOLOGICAL_PROCESS	6.74E-05	5.28E-08	Guianna
+GO:0006950	response to stress	BIOLOGICAL_PROCESS	1.19E-04	9.97E-08	Guianna
+GO:0010033	response to organic substance	BIOLOGICAL_PROCESS	1.22E-04	1.15E-07	Guianna
+GO:0009617	response to bacterium	BIOLOGICAL_PROCESS	1.22E-04	1.14E-07	Guianna
+GO:0065007	biological regulation	BIOLOGICAL_PROCESS	1.37E-04	1.43E-07	Guianna
+GO:0009725	response to hormone	BIOLOGICAL_PROCESS	1.37E-04	1.36E-07	Guianna
+GO:0009791	post-embryonic development	BIOLOGICAL_PROCESS	1.46E-04	1.60E-07	Guianna
+GO:0050789	regulation of biological process	BIOLOGICAL_PROCESS	2.36E-04	2.71E-07	Guianna
+GO:0071944	cell periphery	CELLULAR_COMPONENT	3.20E-04	3.84E-07	Guianna
+GO:0005623	cell	CELLULAR_COMPONENT	7.94E-04	1.04E-06	Guianna
+GO:0044464	cell part	CELLULAR_COMPONENT	7.94E-04	1.01E-06	Guianna
+GO:0010154	fruit development	BIOLOGICAL_PROCESS	0.001106297	1.50E-06	Guianna
+GO:0006468	protein phosphorylation	BIOLOGICAL_PROCESS	0.00124539	1.76E-06	Guianna
+GO:0048316	seed development	BIOLOGICAL_PROCESS	0.001302094	1.90E-06	Guianna
+GO:0003006	developmental process involved in reproduction	BIOLOGICAL_PROCESS	0.001387275	2.32E-06	Guianna
+GO:0051704	multi-organism process	BIOLOGICAL_PROCESS	0.001387275	2.26E-06	Guianna
+GO:0009628	response to abiotic stimulus	BIOLOGICAL_PROCESS	0.001387275	2.26E-06	Guianna
+GO:0044444	cytoplasmic part	CELLULAR_COMPONENT	0.001387275	2.22E-06	Guianna
+GO:0005737	cytoplasm	CELLULAR_COMPONENT	0.001483373	2.56E-06	Guianna
+GO:0048583	regulation of response to stimulus	BIOLOGICAL_PROCESS	0.001522168	2.70E-06	Guianna
+GO:0033993	response to lipid	BIOLOGICAL_PROCESS	0.001738756	3.18E-06	Guianna
+GO:0005886	plasma membrane	CELLULAR_COMPONENT	0.001871156	3.52E-06	Guianna
+GO:1990316	Atg1/ULK1 kinase complex	CELLULAR_COMPONENT	0.002166508	4.19E-06	Guianna
+GO:0042742	defense response to bacterium	BIOLOGICAL_PROCESS	0.002621467	5.20E-06	Guianna
+GO:0061458	reproductive system development	BIOLOGICAL_PROCESS	0.002629327	5.63E-06	Guianna
+GO:0048608	reproductive structure development	BIOLOGICAL_PROCESS	0.002629327	5.54E-06	Guianna
+GO:0043227	membrane-bounded organelle	CELLULAR_COMPONENT	0.002629327	5.42E-06	Guianna
+GO:0016310	phosphorylation	BIOLOGICAL_PROCESS	0.002801434	6.29E-06	Guianna
+GO:1901700	response to oxygen-containing compound	BIOLOGICAL_PROCESS	0.002801434	6.22E-06	Guianna
+GO:0050793	regulation of developmental process	BIOLOGICAL_PROCESS	0.002916674	6.70E-06	Guianna
+GO:0006464	cellular protein modification process	BIOLOGICAL_PROCESS	0.002954893	7.10E-06	Guianna
+GO:0036211	protein modification process	BIOLOGICAL_PROCESS	0.002954893	7.10E-06	Guianna
+GO:0005515	protein binding	MOLECULAR_FUNCTION	0.003171153	7.78E-06	Guianna
+GO:0009893	positive regulation of metabolic process	BIOLOGICAL_PROCESS	0.003345057	8.38E-06	Guianna
+GO:0043231	intracellular membrane-bounded organelle	CELLULAR_COMPONENT	0.00441609	1.13E-05	Guianna
+GO:0099402	plant organ development	BIOLOGICAL_PROCESS	0.006194142	1.63E-05	Guianna
+GO:0044267	cellular protein metabolic process	BIOLOGICAL_PROCESS	0.006194142	1.65E-05	Guianna
+GO:0071840	cellular component organization or biogenesis	BIOLOGICAL_PROCESS	0.006389294	1.73E-05	Guianna
+GO:0034639	L-amino acid efflux transmembrane transporter activity	MOLECULAR_FUNCTION	0.00641943	1.78E-05	Guianna
+GO:0000003	reproduction	BIOLOGICAL_PROCESS	0.007274618	2.05E-05	Guianna
+GO:0015186	L-glutamine transmembrane transporter activity	MOLECULAR_FUNCTION	0.00810684	2.33E-05	Guianna
+GO:0009651	response to salt stress	BIOLOGICAL_PROCESS	0.008508086	2.49E-05	Guianna
+GO:0022414	reproductive process	BIOLOGICAL_PROCESS	0.009379631	2.79E-05	Guianna
+GO:0005622	intracellular	CELLULAR_COMPONENT	0.010154176	3.12E-05	Guianna
+GO:0071554	cell wall organization or biogenesis	BIOLOGICAL_PROCESS	0.010154176	3.13E-05	Guianna
+GO:0048869	cellular developmental process	BIOLOGICAL_PROCESS	0.010659743	3.38E-05	Guianna
+GO:0010604	positive regulation of macromolecule metabolic process	BIOLOGICAL_PROCESS	0.010659743	3.40E-05	Guianna
+GO:0043090	amino acid import	BIOLOGICAL_PROCESS	0.010742277	3.48E-05	Guianna
+GO:0006796	phosphate-containing compound metabolic process	BIOLOGICAL_PROCESS	0.010864213	3.57E-05	Guianna
+GO:0032973	amino acid export across plasma membrane	BIOLOGICAL_PROCESS	0.01100299	3.68E-05	Guianna
+GO:0102978	furaneol oxidoreductase activity	MOLECULAR_FUNCTION	0.011446315	3.88E-05	Guianna
+GO:0050284	sinapate 1-glucosyltransferase activity	MOLECULAR_FUNCTION	0.011643888	4.01E-05	Guianna
+GO:0006793	phosphorus metabolic process	BIOLOGICAL_PROCESS	0.012251257	4.29E-05	Guianna
+GO:0098712	L-glutamate import across plasma membrane	BIOLOGICAL_PROCESS	0.013589968	4.93E-05	Guianna
+GO:0001504	neurotransmitter uptake	BIOLOGICAL_PROCESS	0.013589968	4.93E-05	Guianna
+GO:0009507	chloroplast	CELLULAR_COMPONENT	0.013589968	4.97E-05	Guianna
+GO:0044424	intracellular part	CELLULAR_COMPONENT	0.013793587	5.11E-05	Guianna
+GO:0070887	cellular response to chemical stimulus	BIOLOGICAL_PROCESS	0.016304927	6.13E-05	Guianna
+GO:0089718	amino acid import across plasma membrane	BIOLOGICAL_PROCESS	0.01673742	6.38E-05	Guianna
+GO:0050794	regulation of cellular process	BIOLOGICAL_PROCESS	0.017076209	6.60E-05	Guianna
+GO:0006955	immune response	BIOLOGICAL_PROCESS	0.017254171	6.90E-05	Guianna
+GO:0051938	L-glutamate import	BIOLOGICAL_PROCESS	0.017254171	6.94E-05	Guianna
+GO:0045087	innate immune response	BIOLOGICAL_PROCESS	0.017254171	6.89E-05	Guianna
+GO:0004555	alpha,alpha-trehalase activity	MOLECULAR_FUNCTION	0.018612681	7.68E-05	Guianna
+GO:0035798	2-alkenal reductase (NADP+) activity	MOLECULAR_FUNCTION	0.018612681	7.68E-05	Guianna
+GO:0140115	export across plasma membrane	BIOLOGICAL_PROCESS	0.021203172	8.86E-05	Guianna
+GO:0080134	regulation of response to stress	BIOLOGICAL_PROCESS	0.022207575	9.39E-05	Guianna
+GO:0071310	cellular response to organic substance	BIOLOGICAL_PROCESS	0.02276432	9.79E-05	Guianna
+GO:0007005	mitochondrion organization	BIOLOGICAL_PROCESS	0.02276432	9.87E-05	Guianna
+GO:0015813	L-glutamate transmembrane transport	BIOLOGICAL_PROCESS	0.025529317	1.12E-04	Guianna
+GO:0071495	cellular response to endogenous stimulus	BIOLOGICAL_PROCESS	0.025929217	1.15E-04	Guianna
+GO:0043412	macromolecule modification	BIOLOGICAL_PROCESS	0.027604561	1.24E-04	Guianna
+GO:0016043	cellular component organization	BIOLOGICAL_PROCESS	0.027792812	1.26E-04	Guianna
+GO:0005993	trehalose catabolic process	BIOLOGICAL_PROCESS	0.028894985	1.33E-04	Guianna
+GO:0030312	external encapsulating structure	CELLULAR_COMPONENT	0.033108993	1.54E-04	Guianna
+GO:1902475	L-alpha-amino acid transmembrane transport	BIOLOGICAL_PROCESS	0.03404527	1.61E-04	Guianna
+GO:0048367	shoot system development	BIOLOGICAL_PROCESS	0.03404527	1.63E-04	Guianna
+GO:0009958	positive gravitropism	BIOLOGICAL_PROCESS	0.03404527	1.64E-04	Guianna
+GO:0065008	regulation of biological quality	BIOLOGICAL_PROCESS	0.035319297	1.72E-04	Guianna
+GO:0006835	dicarboxylic acid transport	BIOLOGICAL_PROCESS	0.037029079	1.82E-04	Guianna
+GO:0051173	positive regulation of nitrogen compound metabolic process	BIOLOGICAL_PROCESS	0.03718566	1.84E-04	Guianna
+GO:0031325	positive regulation of cellular metabolic process	BIOLOGICAL_PROCESS	0.037870509	1.92E-04	Guianna
+GO:0051239	regulation of multicellular organismal process	BIOLOGICAL_PROCESS	0.037870509	1.92E-04	Guianna
+GO:0007389	pattern specification process	BIOLOGICAL_PROCESS	0.04144494	2.12E-04	Guianna
+GO:0031347	regulation of defense response	BIOLOGICAL_PROCESS	0.045495584	2.38E-04	Guianna
+GO:0043229	intracellular organelle	CELLULAR_COMPONENT	0.045495584	2.38E-04	Guianna
+GO:0051174	regulation of phosphorus metabolic process	BIOLOGICAL_PROCESS	0.045678694	2.52E-04	Guianna
+GO:0002376	immune system process	BIOLOGICAL_PROCESS	0.045678694	2.53E-04	Guianna
+GO:0015692	lead ion transport	BIOLOGICAL_PROCESS	0.045678694	2.49E-04	Guianna
+GO:0052747	sinapyl alcohol dehydrogenase activity	MOLECULAR_FUNCTION	0.045678694	2.49E-04	Guianna
+GO:0009834	plant-type secondary cell wall biogenesis	BIOLOGICAL_PROCESS	0.045678694	2.55E-04	Guianna
+GO:0007595	lactation	BIOLOGICAL_PROCESS	0.045678694	2.51E-04	Guianna
+GO:0019220	regulation of phosphate metabolic process	BIOLOGICAL_PROCESS	0.045678694	2.52E-04	Guianna
+GO:0048827	phyllome development	BIOLOGICAL_PROCESS	0.047504853	2.68E-04	Guianna
+GO:0006970	response to osmotic stress	BIOLOGICAL_PROCESS	0.047565476	2.73E-04	Guianna
+GO:0055123	digestive system development	BIOLOGICAL_PROCESS	0.047565476	2.71E-04	Guianna
+GO:0001558	regulation of cell growth	BIOLOGICAL_PROCESS	0.047769855	2.77E-04	Guianna
+GO:0042221	response to chemical	BIOLOGICAL_PROCESS	2.10E-08	1.89E-12	Iquitos
+GO:0050896	response to stimulus	BIOLOGICAL_PROCESS	2.10E-08	2.20E-12	Iquitos
+GO:1901700	response to oxygen-containing compound	BIOLOGICAL_PROCESS	3.39E-07	5.31E-11	Iquitos
+GO:0032891	negative regulation of organic acid transport	BIOLOGICAL_PROCESS	6.96E-07	2.18E-10	Iquitos
+GO:0051956	negative regulation of amino acid transport	BIOLOGICAL_PROCESS	6.96E-07	2.18E-10	Iquitos
+GO:0051953	negative regulation of amine transport	BIOLOGICAL_PROCESS	6.96E-07	2.18E-10	Iquitos
+GO:0090188	negative regulation of pancreatic juice secretion	BIOLOGICAL_PROCESS	1.83E-06	2.39E-09	Iquitos
+GO:0090186	regulation of pancreatic juice secretion	BIOLOGICAL_PROCESS	1.83E-06	2.39E-09	Iquitos
+GO:0002238	response to molecule of fungal origin	BIOLOGICAL_PROCESS	1.83E-06	9.58E-10	Iquitos
+GO:1905408	negative regulation of creatine transmembrane transporter activity	BIOLOGICAL_PROCESS	1.83E-06	2.39E-09	Iquitos
+GO:1905407	regulation of creatine transmembrane transporter activity	BIOLOGICAL_PROCESS	1.83E-06	2.39E-09	Iquitos
+GO:0038116	chemokine (C-C motif) ligand 21 signaling pathway	BIOLOGICAL_PROCESS	1.83E-06	2.39E-09	Iquitos
+GO:0038146	chemokine (C-X-C motif) ligand 12 signaling pathway	BIOLOGICAL_PROCESS	1.83E-06	2.39E-09	Iquitos
+GO:0061404	positive regulation of transcription from RNA polymerase II promoter in response to increased salt	BIOLOGICAL_PROCESS	1.83E-06	2.39E-09	Iquitos
+GO:0036251	positive regulation of transcription from RNA polymerase II promoter in response to salt stress	BIOLOGICAL_PROCESS	1.83E-06	2.39E-09	Iquitos
+GO:0048247	lymphocyte chemotaxis	BIOLOGICAL_PROCESS	1.83E-06	2.39E-09	Iquitos
+GO:2000406	positive regulation of T cell migration	BIOLOGICAL_PROCESS	1.83E-06	2.39E-09	Iquitos
+GO:2000403	positive regulation of lymphocyte migration	BIOLOGICAL_PROCESS	1.83E-06	2.39E-09	Iquitos
+GO:0023016	signal transduction by trans-phosphorylation	BIOLOGICAL_PROCESS	1.83E-06	2.39E-09	Iquitos
+GO:1901623	regulation of lymphocyte chemotaxis	BIOLOGICAL_PROCESS	1.83E-06	2.39E-09	Iquitos
+GO:0010819	regulation of T cell chemotaxis	BIOLOGICAL_PROCESS	1.83E-06	2.39E-09	Iquitos
+GO:0010818	T cell chemotaxis	BIOLOGICAL_PROCESS	1.83E-06	2.39E-09	Iquitos
+GO:0010820	positive regulation of T cell chemotaxis	BIOLOGICAL_PROCESS	1.83E-06	2.39E-09	Iquitos
+GO:0009620	response to fungus	BIOLOGICAL_PROCESS	1.83E-06	1.97E-09	Iquitos
+GO:0140131	positive regulation of lymphocyte chemotaxis	BIOLOGICAL_PROCESS	1.83E-06	2.39E-09	Iquitos
+GO:1903789	regulation of amino acid transmembrane transport	BIOLOGICAL_PROCESS	1.84E-06	2.50E-09	Iquitos
+GO:2000650	negative regulation of sodium ion transmembrane transporter activity	BIOLOGICAL_PROCESS	2.64E-06	3.86E-09	Iquitos
+GO:0061393	positive regulation of transcription from RNA polymerase II promoter in response to osmotic stress	BIOLOGICAL_PROCESS	2.64E-06	3.86E-09	Iquitos
+GO:0010033	response to organic substance	BIOLOGICAL_PROCESS	2.99E-06	4.52E-09	Iquitos
+GO:0051955	regulation of amino acid transport	BIOLOGICAL_PROCESS	3.10E-06	4.85E-09	Iquitos
+GO:0036438	maintenance of lens transparency	BIOLOGICAL_PROCESS	3.61E-06	6.03E-09	Iquitos
+GO:0070098	chemokine-mediated signaling pathway	BIOLOGICAL_PROCESS	3.61E-06	6.03E-09	Iquitos
+GO:0016020	membrane	CELLULAR_COMPONENT	3.64E-06	6.27E-09	Iquitos
+GO:0071475	cellular hyperosmotic salinity response	BIOLOGICAL_PROCESS	3.72E-06	6.75E-09	Iquitos
+GO:0009605	response to external stimulus	BIOLOGICAL_PROCESS	3.72E-06	6.80E-09	Iquitos
+GO:1903036	positive regulation of response to wounding	BIOLOGICAL_PROCESS	4.74E-06	8.90E-09	Iquitos
+GO:1902306	negative regulation of sodium ion transmembrane transport	BIOLOGICAL_PROCESS	4.74E-06	9.16E-09	Iquitos
+GO:0019748	secondary metabolic process	BIOLOGICAL_PROCESS	6.55E-06	1.30E-08	Iquitos
+GO:0002094	polyprenyltransferase activity	MOLECULAR_FUNCTION	7.41E-06	1.51E-08	Iquitos
+GO:0032890	regulation of organic acid transport	BIOLOGICAL_PROCESS	8.86E-06	1.99E-08	Iquitos
+GO:1990868	response to chemokine	BIOLOGICAL_PROCESS	8.86E-06	1.96E-08	Iquitos
+GO:1990869	cellular response to chemokine	BIOLOGICAL_PROCESS	8.86E-06	1.96E-08	Iquitos
+GO:0071476	cellular hypotonic response	BIOLOGICAL_PROCESS	8.86E-06	1.96E-08	Iquitos
+GO:0042493	response to drug	BIOLOGICAL_PROCESS	9.35E-06	2.15E-08	Iquitos
+GO:0051952	regulation of amine transport	BIOLOGICAL_PROCESS	1.12E-05	2.62E-08	Iquitos
+GO:0030157	pancreatic juice secretion	BIOLOGICAL_PROCESS	1.16E-05	2.79E-08	Iquitos
+GO:0006952	defense response	BIOLOGICAL_PROCESS	1.17E-05	2.86E-08	Iquitos
+GO:0065007	biological regulation	BIOLOGICAL_PROCESS	1.49E-05	3.82E-08	Iquitos
+GO:0009698	phenylpropanoid metabolic process	BIOLOGICAL_PROCESS	1.49E-05	3.79E-08	Iquitos
+GO:0030033	microvillus assembly	BIOLOGICAL_PROCESS	1.95E-05	5.33E-08	Iquitos
+GO:0014070	response to organic cyclic compound	BIOLOGICAL_PROCESS	1.95E-05	5.39E-08	Iquitos
+GO:0071474	cellular hyperosmotic response	BIOLOGICAL_PROCESS	1.95E-05	5.15E-08	Iquitos
+GO:0032528	microvillus organization	BIOLOGICAL_PROCESS	1.95E-05	5.33E-08	Iquitos
+GO:0060457	negative regulation of digestive system process	BIOLOGICAL_PROCESS	3.40E-05	9.59E-08	Iquitos
+GO:0048680	positive regulation of axon regeneration	BIOLOGICAL_PROCESS	3.54E-05	1.04E-07	Iquitos
+GO:0070572	positive regulation of neuron projection regeneration	BIOLOGICAL_PROCESS	3.54E-05	1.04E-07	Iquitos
+GO:0032941	secretion by tissue	BIOLOGICAL_PROCESS	4.03E-05	1.26E-07	Iquitos
+GO:0061416	regulation of transcription from RNA polymerase II promoter in response to salt stress	BIOLOGICAL_PROCESS	4.03E-05	1.26E-07	Iquitos
+GO:0010766	negative regulation of sodium ion transport	BIOLOGICAL_PROCESS	4.03E-05	1.26E-07	Iquitos
+GO:0009607	response to biotic stimulus	BIOLOGICAL_PROCESS	4.03E-05	1.22E-07	Iquitos
+GO:0051707	response to other organism	BIOLOGICAL_PROCESS	4.97E-05	1.61E-07	Iquitos
+GO:0043207	response to external biotic stimulus	BIOLOGICAL_PROCESS	4.97E-05	1.61E-07	Iquitos
+GO:0061392	regulation of transcription from RNA polymerase II promoter in response to osmotic stress	BIOLOGICAL_PROCESS	5.00E-05	1.64E-07	Iquitos
+GO:0090168	Golgi reassembly	BIOLOGICAL_PROCESS	6.63E-05	2.21E-07	Iquitos
+GO:2000404	regulation of T cell migration	BIOLOGICAL_PROCESS	7.60E-05	2.70E-07	Iquitos
+GO:2000401	regulation of lymphocyte migration	BIOLOGICAL_PROCESS	7.60E-05	2.70E-07	Iquitos
+GO:0072678	T cell migration	BIOLOGICAL_PROCESS	7.60E-05	2.70E-07	Iquitos
+GO:0072676	lymphocyte migration	BIOLOGICAL_PROCESS	7.60E-05	2.70E-07	Iquitos
+GO:0009628	response to abiotic stimulus	BIOLOGICAL_PROCESS	8.56E-05	3.13E-07	Iquitos
+GO:0010930	negative regulation of auxin mediated signaling pathway	BIOLOGICAL_PROCESS	8.56E-05	3.12E-07	Iquitos
+GO:0050832	defense response to fungus	BIOLOGICAL_PROCESS	9.08E-05	3.39E-07	Iquitos
+GO:0044058	regulation of digestive system process	BIOLOGICAL_PROCESS	9.08E-05	3.41E-07	Iquitos
+GO:0098542	defense response to other organism	BIOLOGICAL_PROCESS	1.02E-04	3.88E-07	Iquitos
+GO:0036481	intrinsic apoptotic signaling pathway in response to hydrogen peroxide	BIOLOGICAL_PROCESS	1.12E-04	4.32E-07	Iquitos
+GO:0015837	amine transport	BIOLOGICAL_PROCESS	1.16E-04	4.55E-07	Iquitos
+GO:0009871	jasmonic acid and ethylene-dependent systemic resistance, ethylene mediated signaling pathway	BIOLOGICAL_PROCESS	1.21E-04	4.80E-07	Iquitos
+GO:0017144	drug metabolic process	BIOLOGICAL_PROCESS	1.45E-04	5.89E-07	Iquitos
+GO:0051683	establishment of Golgi localization	BIOLOGICAL_PROCESS	1.45E-04	5.86E-07	Iquitos
+GO:0070887	cellular response to chemical stimulus	BIOLOGICAL_PROCESS	1.51E-04	6.23E-07	Iquitos
+GO:0007589	body fluid secretion	BIOLOGICAL_PROCESS	1.93E-04	8.04E-07	Iquitos
+GO:0002690	positive regulation of leukocyte chemotaxis	BIOLOGICAL_PROCESS	2.32E-04	9.79E-07	Iquitos
+GO:1903436	regulation of mitotic cytokinetic process	BIOLOGICAL_PROCESS	2.53E-04	1.10E-06	Iquitos
+GO:0044425	membrane part	CELLULAR_COMPONENT	2.53E-04	1.09E-06	Iquitos
+GO:0044281	small molecule metabolic process	BIOLOGICAL_PROCESS	2.56E-04	1.12E-06	Iquitos
+GO:0016094	polyprenol biosynthetic process	BIOLOGICAL_PROCESS	2.61E-04	1.18E-06	Iquitos
+GO:0000035	acyl binding	MOLECULAR_FUNCTION	2.61E-04	1.18E-06	Iquitos
+GO:1901017	negative regulation of potassium ion transmembrane transporter activity	BIOLOGICAL_PROCESS	2.61E-04	1.19E-06	Iquitos
+GO:1902412	regulation of mitotic cytokinesis	BIOLOGICAL_PROCESS	2.68E-04	1.23E-06	Iquitos
+GO:0016093	polyprenol metabolic process	BIOLOGICAL_PROCESS	2.89E-04	1.34E-06	Iquitos
+GO:0002687	positive regulation of leukocyte migration	BIOLOGICAL_PROCESS	3.04E-04	1.43E-06	Iquitos
+GO:0051704	multi-organism process	BIOLOGICAL_PROCESS	3.29E-04	1.57E-06	Iquitos
+GO:0002688	regulation of leukocyte chemotaxis	BIOLOGICAL_PROCESS	3.44E-04	1.71E-06	Iquitos
+GO:1901380	negative regulation of potassium ion transmembrane transport	BIOLOGICAL_PROCESS	3.44E-04	1.71E-06	Iquitos
+GO:0009725	response to hormone	BIOLOGICAL_PROCESS	3.44E-04	1.66E-06	Iquitos
+GO:0043267	negative regulation of potassium ion transport	BIOLOGICAL_PROCESS	3.44E-04	1.71E-06	Iquitos
+GO:1901701	cellular response to oxygen-containing compound	BIOLOGICAL_PROCESS	3.48E-04	1.75E-06	Iquitos
+GO:0010035	response to inorganic substance	BIOLOGICAL_PROCESS	3.51E-04	1.78E-06	Iquitos
+GO:1903034	regulation of response to wounding	BIOLOGICAL_PROCESS	3.97E-04	2.03E-06	Iquitos
+GO:0006950	response to stress	BIOLOGICAL_PROCESS	4.03E-04	2.09E-06	Iquitos
+GO:0048313	Golgi inheritance	BIOLOGICAL_PROCESS	4.19E-04	2.19E-06	Iquitos
+GO:2001024	negative regulation of response to drug	BIOLOGICAL_PROCESS	5.36E-04	2.84E-06	Iquitos
+GO:0009611	response to wounding	BIOLOGICAL_PROCESS	5.36E-04	2.85E-06	Iquitos
+GO:1901806	beta-glucoside biosynthetic process	BIOLOGICAL_PROCESS	6.20E-04	3.34E-06	Iquitos
+GO:0050891	multicellular organismal water homeostasis	BIOLOGICAL_PROCESS	7.11E-04	3.90E-06	Iquitos
+GO:0010421	hydrogen peroxide-mediated programmed cell death	BIOLOGICAL_PROCESS	7.11E-04	3.90E-06	Iquitos
+GO:2000649	regulation of sodium ion transmembrane transporter activity	BIOLOGICAL_PROCESS	9.43E-04	5.27E-06	Iquitos
+GO:0035329	hippo signaling	BIOLOGICAL_PROCESS	9.43E-04	5.27E-06	Iquitos
+GO:0032954	regulation of cytokinetic process	BIOLOGICAL_PROCESS	9.63E-04	5.43E-06	Iquitos
+GO:0046677	response to antibiotic	BIOLOGICAL_PROCESS	9.92E-04	5.65E-06	Iquitos
+GO:0097194	execution phase of apoptosis	BIOLOGICAL_PROCESS	0.001199963	6.89E-06	Iquitos
+GO:0080027	response to herbivore	BIOLOGICAL_PROCESS	0.001241055	7.19E-06	Iquitos
+GO:0050789	regulation of biological process	BIOLOGICAL_PROCESS	0.001349496	7.89E-06	Iquitos
+GO:0031156	regulation of sorocarp development	BIOLOGICAL_PROCESS	0.001453279	8.57E-06	Iquitos
+GO:0050636	vinorine synthase activity	MOLECULAR_FUNCTION	0.001492394	8.88E-06	Iquitos
+GO:0048679	regulation of axon regeneration	BIOLOGICAL_PROCESS	0.001503027	9.10E-06	Iquitos
+GO:0070570	regulation of neuron projection regeneration	BIOLOGICAL_PROCESS	0.001503027	9.10E-06	Iquitos
+GO:0009719	response to endogenous stimulus	BIOLOGICAL_PROCESS	0.001559541	9.53E-06	Iquitos
+GO:1901135	carbohydrate derivative metabolic process	BIOLOGICAL_PROCESS	0.001652485	1.02E-05	Iquitos
+GO:1903438	positive regulation of mitotic cytokinetic process	BIOLOGICAL_PROCESS	0.001679545	1.05E-05	Iquitos
+GO:1903490	positive regulation of mitotic cytokinesis	BIOLOGICAL_PROCESS	0.001679545	1.05E-05	Iquitos
+GO:0031102	neuron projection regeneration	BIOLOGICAL_PROCESS	0.001703472	1.09E-05	Iquitos
+GO:0031103	axon regeneration	BIOLOGICAL_PROCESS	0.001703472	1.09E-05	Iquitos
+GO:0051179	localization	BIOLOGICAL_PROCESS	0.001813646	1.16E-05	Iquitos
+GO:0097468	programmed cell death in response to reactive oxygen species	BIOLOGICAL_PROCESS	0.001815425	1.18E-05	Iquitos
+GO:1904063	negative regulation of cation transmembrane transport	BIOLOGICAL_PROCESS	0.002203052	1.44E-05	Iquitos
+GO:0006971	hypotonic response	BIOLOGICAL_PROCESS	0.002595109	1.75E-05	Iquitos
+GO:0003333	amino acid transmembrane transport	BIOLOGICAL_PROCESS	0.002595109	1.74E-05	Iquitos
+GO:0080154	regulation of fertilization	BIOLOGICAL_PROCESS	0.002595109	1.73E-05	Iquitos
+GO:0045730	respiratory burst	BIOLOGICAL_PROCESS	0.002595109	1.73E-05	Iquitos
+GO:0051048	negative regulation of secretion	BIOLOGICAL_PROCESS	0.002618009	1.78E-05	Iquitos
+GO:0044444	cytoplasmic part	CELLULAR_COMPONENT	0.002719553	1.86E-05	Iquitos
+GO:0008631	intrinsic apoptotic signaling pathway in response to oxidative stress	BIOLOGICAL_PROCESS	0.00301121	2.08E-05	Iquitos
+GO:0042538	hyperosmotic salinity response	BIOLOGICAL_PROCESS	0.003108797	2.16E-05	Iquitos
+GO:0036474	cell death in response to hydrogen peroxide	BIOLOGICAL_PROCESS	0.00313325	2.19E-05	Iquitos
+GO:0005737	cytoplasm	CELLULAR_COMPONENT	0.003203294	2.26E-05	Iquitos
+GO:0022600	digestive system process	BIOLOGICAL_PROCESS	0.00326312	2.32E-05	Iquitos
+GO:0002685	regulation of leukocyte migration	BIOLOGICAL_PROCESS	0.003433509	2.46E-05	Iquitos
+GO:0031224	intrinsic component of membrane	CELLULAR_COMPONENT	0.003676505	2.65E-05	Iquitos
+GO:0006865	amino acid transport	BIOLOGICAL_PROCESS	0.003764581	2.74E-05	Iquitos
+GO:0080002	UDP-glucose:4-aminobenzoate acylglucosyltransferase activity	MOLECULAR_FUNCTION	0.003764581	2.75E-05	Iquitos
+GO:0043900	regulation of multi-organism process	BIOLOGICAL_PROCESS	0.00404117	2.98E-05	Iquitos
+GO:1904423	dehydrodolichyl diphosphate synthase complex	CELLULAR_COMPONENT	0.004073165	3.05E-05	Iquitos
+GO:0050921	positive regulation of chemotaxis	BIOLOGICAL_PROCESS	0.004073165	3.06E-05	Iquitos
+GO:0045547	dehydrodolichyl diphosphate synthase activity	MOLECULAR_FUNCTION	0.004073165	3.05E-05	Iquitos
+GO:0010976	positive regulation of neuron projection development	BIOLOGICAL_PROCESS	0.004431622	3.36E-05	Iquitos
+GO:0007586	digestion	BIOLOGICAL_PROCESS	0.004733334	3.61E-05	Iquitos
+GO:1902410	mitotic cytokinetic process	BIOLOGICAL_PROCESS	0.004773521	3.66E-05	Iquitos
+GO:0002684	positive regulation of immune system process	BIOLOGICAL_PROCESS	0.004816046	3.72E-05	Iquitos
+GO:1902305	regulation of sodium ion transmembrane transport	BIOLOGICAL_PROCESS	0.004835192	3.79E-05	Iquitos
+GO:0008217	regulation of blood pressure	BIOLOGICAL_PROCESS	0.004835192	3.79E-05	Iquitos
+GO:1901657	glycosyl compound metabolic process	BIOLOGICAL_PROCESS	0.004856947	3.83E-05	Iquitos
+GO:0048856	anatomical structure development	BIOLOGICAL_PROCESS	0.004888123	3.88E-05	Iquitos
+GO:0016021	integral component of membrane	CELLULAR_COMPONENT	0.005014688	4.01E-05	Iquitos
+GO:0001101	response to acid chemical	BIOLOGICAL_PROCESS	0.00511897	4.12E-05	Iquitos
+GO:0051716	cellular response to stimulus	BIOLOGICAL_PROCESS	0.005154682	4.19E-05	Iquitos
+GO:1901804	beta-glucoside metabolic process	BIOLOGICAL_PROCESS	0.005154682	4.20E-05	Iquitos
+GO:0044550	secondary metabolite biosynthetic process	BIOLOGICAL_PROCESS	0.005597972	4.59E-05	Iquitos
+GO:0032870	cellular response to hormone stimulus	BIOLOGICAL_PROCESS	0.006181731	5.10E-05	Iquitos
+GO:0043406	positive regulation of MAP kinase activity	BIOLOGICAL_PROCESS	0.006538872	5.46E-05	Iquitos
+GO:0051645	Golgi localization	BIOLOGICAL_PROCESS	0.006538872	5.46E-05	Iquitos
+GO:0050920	regulation of chemotaxis	BIOLOGICAL_PROCESS	0.00702012	5.90E-05	Iquitos
+GO:0080184	response to phenylpropanoid	BIOLOGICAL_PROCESS	0.007125061	6.03E-05	Iquitos
+GO:0045666	positive regulation of neuron differentiation	BIOLOGICAL_PROCESS	0.007429218	6.32E-05	Iquitos
+GO:0006979	response to oxidative stress	BIOLOGICAL_PROCESS	0.007467057	6.39E-05	Iquitos
+GO:0032502	developmental process	BIOLOGICAL_PROCESS	0.007803603	6.72E-05	Iquitos
+GO:0016138	glycoside biosynthetic process	BIOLOGICAL_PROCESS	0.007858327	6.89E-05	Iquitos
+GO:0002215	defense response to nematode	BIOLOGICAL_PROCESS	0.007858327	6.89E-05	Iquitos
+GO:0004659	prenyltransferase activity	MOLECULAR_FUNCTION	0.007858327	6.85E-05	Iquitos
+GO:0046482	para-aminobenzoic acid metabolic process	BIOLOGICAL_PROCESS	0.007873847	6.95E-05	Iquitos
+GO:0010266	response to vitamin B1	BIOLOGICAL_PROCESS	0.008039943	7.18E-05	Iquitos
+GO:0019010	farnesoic acid O-methyltransferase activity	MOLECULAR_FUNCTION	0.008039943	7.18E-05	Iquitos
+GO:0008194	UDP-glycosyltransferase activity	MOLECULAR_FUNCTION	0.008041568	7.22E-05	Iquitos
+GO:0048308	organelle inheritance	BIOLOGICAL_PROCESS	0.008187838	7.44E-05	Iquitos
+GO:1903960	negative regulation of anion transmembrane transport	BIOLOGICAL_PROCESS	0.008187838	7.44E-05	Iquitos
+GO:0030595	leukocyte chemotaxis	BIOLOGICAL_PROCESS	0.00822066	7.51E-05	Iquitos
+GO:0048678	response to axon injury	BIOLOGICAL_PROCESS	0.008550696	7.86E-05	Iquitos
+GO:0001894	tissue homeostasis	BIOLOGICAL_PROCESS	0.008677614	8.02E-05	Iquitos
+GO:0009751	response to salicylic acid	BIOLOGICAL_PROCESS	0.008699387	8.09E-05	Iquitos
+GO:1903792	negative regulation of anion transport	BIOLOGICAL_PROCESS	0.009237373	8.64E-05	Iquitos
+GO:0009991	response to extracellular stimulus	BIOLOGICAL_PROCESS	0.009237373	8.68E-05	Iquitos
+GO:0031347	regulation of defense response	BIOLOGICAL_PROCESS	0.009244971	8.74E-05	Iquitos
+GO:0097237	cellular response to toxic substance	BIOLOGICAL_PROCESS	0.009291214	8.83E-05	Iquitos
+GO:0044464	cell part	CELLULAR_COMPONENT	0.009358325	8.94E-05	Iquitos
+GO:0005623	cell	CELLULAR_COMPONENT	0.009494018	9.12E-05	Iquitos
+GO:1901617	organic hydroxy compound biosynthetic process	BIOLOGICAL_PROCESS	0.009589411	9.26E-05	Iquitos
+GO:0009269	response to desiccation	BIOLOGICAL_PROCESS	0.01019505	9.90E-05	Iquitos
+GO:0071470	cellular response to osmotic stress	BIOLOGICAL_PROCESS	0.010459561	1.02E-04	Iquitos
+GO:0006972	hyperosmotic response	BIOLOGICAL_PROCESS	0.010589638	1.04E-04	Iquitos
+GO:0009536	plastid	CELLULAR_COMPONENT	0.010613616	1.05E-04	Iquitos
+GO:0071902	positive regulation of protein serine/threonine kinase activity	BIOLOGICAL_PROCESS	0.011330466	1.12E-04	Iquitos
+GO:0042737	drug catabolic process	BIOLOGICAL_PROCESS	0.011333779	1.13E-04	Iquitos
+GO:0032154	cleavage furrow	CELLULAR_COMPONENT	0.011489506	1.15E-04	Iquitos
+GO:0031667	response to nutrient levels	BIOLOGICAL_PROCESS	0.012175117	1.23E-04	Iquitos
+GO:0031346	positive regulation of cell projection organization	BIOLOGICAL_PROCESS	0.012180225	1.23E-04	Iquitos
+GO:1901576	organic substance biosynthetic process	BIOLOGICAL_PROCESS	0.012365476	1.26E-04	Iquitos
+GO:0006810	transport	BIOLOGICAL_PROCESS	0.012489218	1.28E-04	Iquitos
+GO:0009699	phenylpropanoid biosynthetic process	BIOLOGICAL_PROCESS	0.013870335	1.43E-04	Iquitos
+GO:1905039	carboxylic acid transmembrane transport	BIOLOGICAL_PROCESS	0.014575416	1.53E-04	Iquitos
+GO:1903825	organic acid transmembrane transport	BIOLOGICAL_PROCESS	0.014575416	1.53E-04	Iquitos
+GO:0071310	cellular response to organic substance	BIOLOGICAL_PROCESS	0.014575416	1.51E-04	Iquitos
+GO:0032467	positive regulation of cytokinesis	BIOLOGICAL_PROCESS	0.014575416	1.51E-04	Iquitos
+GO:0080018	anthocyanin 5-O-glucosyltransferase activity	MOLECULAR_FUNCTION	0.01565275	1.65E-04	Iquitos
+GO:0071472	cellular response to salt stress	BIOLOGICAL_PROCESS	0.015735317	1.67E-04	Iquitos
+GO:0034614	cellular response to reactive oxygen species	BIOLOGICAL_PROCESS	0.016056413	1.71E-04	Iquitos
+GO:0035251	UDP-glucosyltransferase activity	MOLECULAR_FUNCTION	0.016319093	1.75E-04	Iquitos
+GO:0006790	sulfur compound metabolic process	BIOLOGICAL_PROCESS	0.016737256	1.81E-04	Iquitos
+GO:0046527	glucosyltransferase activity	MOLECULAR_FUNCTION	0.016737256	1.81E-04	Iquitos
+GO:0016620	oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor	MOLECULAR_FUNCTION	0.017234732	1.88E-04	Iquitos
+GO:0016758	transferase activity, transferring hexosyl groups	MOLECULAR_FUNCTION	0.017234732	1.88E-04	Iquitos
+GO:0016757	transferase activity, transferring glycosyl groups	MOLECULAR_FUNCTION	0.017515759	1.93E-04	Iquitos
+GO:0044283	small molecule biosynthetic process	BIOLOGICAL_PROCESS	0.017515759	1.93E-04	Iquitos
+GO:0036473	cell death in response to oxidative stress	BIOLOGICAL_PROCESS	0.017774925	1.97E-04	Iquitos
+GO:0016137	glycoside metabolic process	BIOLOGICAL_PROCESS	0.017868498	1.99E-04	Iquitos
+GO:0051241	negative regulation of multicellular organismal process	BIOLOGICAL_PROCESS	0.018661645	2.10E-04	Iquitos
+GO:0009741	response to brassinosteroid	BIOLOGICAL_PROCESS	0.018661645	2.10E-04	Iquitos
+GO:0017001	antibiotic catabolic process	BIOLOGICAL_PROCESS	0.018661645	2.10E-04	Iquitos
+GO:0043231	intracellular membrane-bounded organelle	CELLULAR_COMPONENT	0.018856902	2.14E-04	Iquitos
+GO:0009266	response to temperature stimulus	BIOLOGICAL_PROCESS	0.019780206	2.25E-04	Iquitos
+GO:0009507	chloroplast	CELLULAR_COMPONENT	0.020278604	2.33E-04	Iquitos
+GO:0006082	organic acid metabolic process	BIOLOGICAL_PROCESS	0.020278604	2.33E-04	Iquitos
+GO:0006489	dolichyl diphosphate biosynthetic process	BIOLOGICAL_PROCESS	0.020849527	2.45E-04	Iquitos
+GO:0046465	dolichyl diphosphate metabolic process	BIOLOGICAL_PROCESS	0.020849527	2.45E-04	Iquitos
+GO:0006208	pyrimidine nucleobase catabolic process	BIOLOGICAL_PROCESS	0.020849527	2.45E-04	Iquitos
+GO:0019483	beta-alanine biosynthetic process	BIOLOGICAL_PROCESS	0.020849527	2.45E-04	Iquitos
+GO:0032465	regulation of cytokinesis	BIOLOGICAL_PROCESS	0.020849527	2.42E-04	Iquitos
+GO:0000187	activation of MAPK activity	BIOLOGICAL_PROCESS	0.022538833	2.66E-04	Iquitos
+GO:0060326	cell chemotaxis	BIOLOGICAL_PROCESS	0.023225312	2.75E-04	Iquitos
+GO:0032501	multicellular organismal process	BIOLOGICAL_PROCESS	0.024278351	2.89E-04	Iquitos
+GO:0030104	water homeostasis	BIOLOGICAL_PROCESS	0.024372114	2.91E-04	Iquitos
+GO:0051234	establishment of localization	BIOLOGICAL_PROCESS	0.024751461	2.97E-04	Iquitos
+GO:0009058	biosynthetic process	BIOLOGICAL_PROCESS	0.025193507	3.04E-04	Iquitos
+GO:1901615	organic hydroxy compound metabolic process	BIOLOGICAL_PROCESS	0.025760993	3.12E-04	Iquitos
+GO:0098656	anion transmembrane transport	BIOLOGICAL_PROCESS	0.025993592	3.16E-04	Iquitos
+GO:1902456	regulation of stomatal opening	BIOLOGICAL_PROCESS	0.026027723	3.19E-04	Iquitos
+GO:0007275	multicellular organism development	BIOLOGICAL_PROCESS	0.026027723	3.19E-04	Iquitos
+GO:0015020	glucuronosyltransferase activity	MOLECULAR_FUNCTION	0.026060818	3.21E-04	Iquitos
+GO:0034599	cellular response to oxidative stress	BIOLOGICAL_PROCESS	0.026358442	3.26E-04	Iquitos
+GO:0071495	cellular response to endogenous stimulus	BIOLOGICAL_PROCESS	0.026833282	3.33E-04	Iquitos
+GO:0002028	regulation of sodium ion transport	BIOLOGICAL_PROCESS	0.027128006	3.40E-04	Iquitos
+GO:0035725	sodium ion transmembrane transport	BIOLOGICAL_PROCESS	0.027128006	3.40E-04	Iquitos
+GO:0032506	cytokinetic process	BIOLOGICAL_PROCESS	0.027776076	3.50E-04	Iquitos
+GO:0009627	systemic acquired resistance	BIOLOGICAL_PROCESS	0.028921704	3.65E-04	Iquitos
+GO:0000302	response to reactive oxygen species	BIOLOGICAL_PROCESS	0.029330654	3.72E-04	Iquitos
+GO:0032155	cell division site part	CELLULAR_COMPONENT	0.029849104	3.80E-04	Iquitos
+GO:0009987	cellular process	BIOLOGICAL_PROCESS	0.029865206	3.82E-04	Iquitos
+GO:0016999	antibiotic metabolic process	BIOLOGICAL_PROCESS	0.029897247	3.84E-04	Iquitos
+GO:0006629	lipid metabolic process	BIOLOGICAL_PROCESS	0.030179765	3.89E-04	Iquitos
+GO:0048583	regulation of response to stimulus	BIOLOGICAL_PROCESS	0.031183909	4.04E-04	Iquitos
+GO:0009753	response to jasmonic acid	BIOLOGICAL_PROCESS	0.031366034	4.08E-04	Iquitos
+GO:0036003	positive regulation of transcription from RNA polymerase II promoter in response to stress	BIOLOGICAL_PROCESS	0.031888547	4.16E-04	Iquitos
+GO:0018107	peptidyl-threonine phosphorylation	BIOLOGICAL_PROCESS	0.032721219	4.29E-04	Iquitos
+GO:1901137	carbohydrate derivative biosynthetic process	BIOLOGICAL_PROCESS	0.033161202	4.36E-04	Iquitos
+GO:0043436	oxoacid metabolic process	BIOLOGICAL_PROCESS	0.033521231	4.49E-04	Iquitos
+GO:0009808	lignin metabolic process	BIOLOGICAL_PROCESS	0.033521231	4.46E-04	Iquitos
+GO:0018210	peptidyl-threonine modification	BIOLOGICAL_PROCESS	0.033521231	4.50E-04	Iquitos
+GO:0043076	megasporocyte nucleus	CELLULAR_COMPONENT	0.033521231	4.47E-04	Iquitos
+GO:0043078	polar nucleus	CELLULAR_COMPONENT	0.033521231	4.47E-04	Iquitos
+GO:1901659	glycosyl compound biosynthetic process	BIOLOGICAL_PROCESS	0.034023476	4.58E-04	Iquitos
+GO:0019482	beta-alanine metabolic process	BIOLOGICAL_PROCESS	0.034808481	4.71E-04	Iquitos
+GO:0006555	methionine metabolic process	BIOLOGICAL_PROCESS	0.034938246	4.74E-04	Iquitos
+GO:0035336	long-chain fatty-acyl-CoA metabolic process	BIOLOGICAL_PROCESS	0.035584683	4.86E-04	Iquitos
+GO:0043227	membrane-bounded organelle	CELLULAR_COMPONENT	0.035584683	4.87E-04	Iquitos
+GO:0008610	lipid biosynthetic process	BIOLOGICAL_PROCESS	0.036391848	5.00E-04	Iquitos
+GO:0048731	system development	BIOLOGICAL_PROCESS	0.036604089	5.06E-04	Iquitos
+GO:0008483	transaminase activity	MOLECULAR_FUNCTION	0.036604089	5.06E-04	Iquitos
+GO:0098869	cellular oxidant detoxification	BIOLOGICAL_PROCESS	0.038364949	5.33E-04	Iquitos
+GO:0043271	negative regulation of ion transport	BIOLOGICAL_PROCESS	0.038905571	5.42E-04	Iquitos
+GO:0010073	meristem maintenance	BIOLOGICAL_PROCESS	0.039092033	5.48E-04	Iquitos
+GO:0044249	cellular biosynthetic process	BIOLOGICAL_PROCESS	0.039092033	5.49E-04	Iquitos
+GO:0002376	immune system process	BIOLOGICAL_PROCESS	0.039143399	5.52E-04	Iquitos
+GO:0055085	transmembrane transport	BIOLOGICAL_PROCESS	0.039380962	5.57E-04	Iquitos
+GO:0007154	cell communication	BIOLOGICAL_PROCESS	0.04053668	5.76E-04	Iquitos
+GO:0032147	activation of protein kinase activity	BIOLOGICAL_PROCESS	0.040675151	5.80E-04	Iquitos
+GO:0045860	positive regulation of protein kinase activity	BIOLOGICAL_PROCESS	0.041489929	5.94E-04	Iquitos
+GO:0006812	cation transport	BIOLOGICAL_PROCESS	0.042308761	6.09E-04	Iquitos
+GO:0016769	transferase activity, transferring nitrogenous groups	MOLECULAR_FUNCTION	0.042308761	6.10E-04	Iquitos
+GO:0080019	fatty-acyl-CoA reductase (alcohol-forming) activity	MOLECULAR_FUNCTION	0.042923964	6.21E-04	Iquitos
+GO:0030417	nicotianamine metabolic process	BIOLOGICAL_PROCESS	0.042924669	6.34E-04	Iquitos
+GO:0030418	nicotianamine biosynthetic process	BIOLOGICAL_PROCESS	0.042924669	6.34E-04	Iquitos
+GO:0030410	nicotianamine synthase activity	MOLECULAR_FUNCTION	0.042924669	6.34E-04	Iquitos
+GO:0018478	malonate-semialdehyde dehydrogenase (acetylating) activity	MOLECULAR_FUNCTION	0.042924669	6.34E-04	Iquitos
+GO:0004491	methylmalonate-semialdehyde dehydrogenase (acylating) activity	MOLECULAR_FUNCTION	0.042924669	6.34E-04	Iquitos
+GO:0072351	tricarboxylic acid biosynthetic process	BIOLOGICAL_PROCESS	0.042924669	6.34E-04	Iquitos
+GO:0033273	response to vitamin	BIOLOGICAL_PROCESS	0.043694715	6.48E-04	Iquitos
+GO:0019752	carboxylic acid metabolic process	BIOLOGICAL_PROCESS	0.044196313	6.58E-04	Iquitos
+GO:0050769	positive regulation of neurogenesis	BIOLOGICAL_PROCESS	0.044196313	6.60E-04	Iquitos
+GO:0010029	regulation of seed germination	BIOLOGICAL_PROCESS	0.044670751	6.69E-04	Iquitos
+GO:0016324	apical plasma membrane	CELLULAR_COMPONENT	0.045651389	6.86E-04	Iquitos
+GO:0006520	cellular amino acid metabolic process	BIOLOGICAL_PROCESS	0.045990109	6.94E-04	Iquitos
+GO:0016684	oxidoreductase activity, acting on peroxide as acceptor	MOLECULAR_FUNCTION	0.046456074	7.05E-04	Iquitos
+GO:0009817	defense response to fungus, incompatible interaction	BIOLOGICAL_PROCESS	0.046456074	7.06E-04	Iquitos
+GO:0051051	negative regulation of transport	BIOLOGICAL_PROCESS	0.049309942	7.52E-04	Iquitos
+GO:0051707	response to other organism	BIOLOGICAL_PROCESS	7.70E-06	8.04E-10	Marañon
+GO:0043207	response to external biotic stimulus	BIOLOGICAL_PROCESS	7.70E-06	8.04E-10	Marañon
+GO:0009607	response to biotic stimulus	BIOLOGICAL_PROCESS	1.52E-05	2.38E-09	Marañon
+GO:0006952	defense response	BIOLOGICAL_PROCESS	5.13E-05	1.07E-08	Marañon
+GO:0098542	defense response to other organism	BIOLOGICAL_PROCESS	4.45E-04	1.16E-07	Marañon
+GO:0002831	regulation of response to biotic stimulus	BIOLOGICAL_PROCESS	0.006561642	2.28E-06	Marañon
+GO:1900150	regulation of defense response to fungus	BIOLOGICAL_PROCESS	0.006561642	2.40E-06	Marañon
+GO:0009605	response to external stimulus	BIOLOGICAL_PROCESS	0.015754242	6.58E-06	Marañon
+GO:0031347	regulation of defense response	BIOLOGICAL_PROCESS	0.039143124	1.84E-05	Marañon
+GO:0009620	response to fungus	BIOLOGICAL_PROCESS	0.041286692	2.16E-05	Marañon
+GO:0050268	coniferyl-alcohol dehydrogenase activity	MOLECULAR_FUNCTION	1.06E-19	5.53E-24	Nacional
+GO:0045551	cinnamyl-alcohol dehydrogenase activity	MOLECULAR_FUNCTION	1.08E-15	1.13E-19	Nacional
+GO:0016899	oxidoreductase activity, acting on the CH-OH group of donors, oxygen as acceptor	MOLECULAR_FUNCTION	1.50E-13	2.35E-17	Nacional
+GO:0042221	response to chemical	BIOLOGICAL_PROCESS	4.84E-13	1.01E-16	Nacional
+GO:0050896	response to stimulus	BIOLOGICAL_PROCESS	2.97E-12	7.76E-16	Nacional
+GO:0010033	response to organic substance	BIOLOGICAL_PROCESS	8.18E-11	2.56E-14	Nacional
+GO:0009628	response to abiotic stimulus	BIOLOGICAL_PROCESS	1.14E-10	4.15E-14	Nacional
+GO:1901700	response to oxygen-containing compound	BIOLOGICAL_PROCESS	1.38E-10	5.77E-14	Nacional
+GO:0009725	response to hormone	BIOLOGICAL_PROCESS	6.16E-10	2.89E-13	Nacional
+GO:0001101	response to acid chemical	BIOLOGICAL_PROCESS	5.41E-09	2.91E-12	Nacional
+GO:0009719	response to endogenous stimulus	BIOLOGICAL_PROCESS	5.41E-09	3.11E-12	Nacional
+GO:0006979	response to oxidative stress	BIOLOGICAL_PROCESS	3.83E-07	2.40E-10	Nacional
+GO:0006950	response to stress	BIOLOGICAL_PROCESS	4.39E-07	3.08E-10	Nacional
+GO:0051082	unfolded protein binding	MOLECULAR_FUNCTION	4.39E-07	3.21E-10	Nacional
+GO:0007275	multicellular organism development	BIOLOGICAL_PROCESS	4.86E-07	3.81E-10	Nacional
+GO:0009651	response to salt stress	BIOLOGICAL_PROCESS	1.36E-06	1.14E-09	Nacional
+GO:0032502	developmental process	BIOLOGICAL_PROCESS	1.63E-06	1.45E-09	Nacional
+GO:0065007	biological regulation	BIOLOGICAL_PROCESS	2.33E-06	2.19E-09	Nacional
+GO:0048856	anatomical structure development	BIOLOGICAL_PROCESS	2.51E-06	2.49E-09	Nacional
+GO:0032501	multicellular organismal process	BIOLOGICAL_PROCESS	4.29E-06	4.48E-09	Nacional
+GO:0006970	response to osmotic stress	BIOLOGICAL_PROCESS	4.52E-06	4.96E-09	Nacional
+GO:0016020	membrane	CELLULAR_COMPONENT	6.54E-06	7.52E-09	Nacional
+GO:0042493	response to drug	BIOLOGICAL_PROCESS	8.49E-06	1.02E-08	Nacional
+GO:0006633	fatty acid biosynthetic process	BIOLOGICAL_PROCESS	1.85E-05	2.47E-08	Nacional
+GO:0006629	lipid metabolic process	BIOLOGICAL_PROCESS	1.85E-05	2.43E-08	Nacional
+GO:0065008	regulation of biological quality	BIOLOGICAL_PROCESS	1.85E-05	2.91E-08	Nacional
+GO:0033993	response to lipid	BIOLOGICAL_PROCESS	1.85E-05	2.80E-08	Nacional
+GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	MOLECULAR_FUNCTION	1.85E-05	2.91E-08	Nacional
+GO:0050660	flavin adenine dinucleotide binding	MOLECULAR_FUNCTION	1.85E-05	2.68E-08	Nacional
+GO:0097305	response to alcohol	BIOLOGICAL_PROCESS	1.85E-05	2.69E-08	Nacional
+GO:0010286	heat acclimation	BIOLOGICAL_PROCESS	1.85E-05	3.00E-08	Nacional
+GO:0048731	system development	BIOLOGICAL_PROCESS	2.00E-05	3.35E-08	Nacional
+GO:0072330	monocarboxylic acid biosynthetic process	BIOLOGICAL_PROCESS	2.42E-05	4.16E-08	Nacional
+GO:0010035	response to inorganic substance	BIOLOGICAL_PROCESS	2.76E-05	4.89E-08	Nacional
+GO:0016614	oxidoreductase activity, acting on CH-OH group of donors	MOLECULAR_FUNCTION	3.86E-05	7.21E-08	Nacional
+GO:0046685	response to arsenic-containing substance	BIOLOGICAL_PROCESS	3.86E-05	7.26E-08	Nacional
+GO:0046686	response to cadmium ion	BIOLOGICAL_PROCESS	5.18E-05	1.00E-07	Nacional
+GO:0009753	response to jasmonic acid	BIOLOGICAL_PROCESS	5.37E-05	1.07E-07	Nacional
+GO:0044444	cytoplasmic part	CELLULAR_COMPONENT	6.69E-05	1.36E-07	Nacional
+GO:0005911	cell-cell junction	CELLULAR_COMPONENT	9.30E-05	1.94E-07	Nacional
+GO:0000786	nucleosome	CELLULAR_COMPONENT	9.57E-05	2.09E-07	Nacional
+GO:0046688	response to copper ion	BIOLOGICAL_PROCESS	9.57E-05	2.10E-07	Nacional
+GO:0016491	oxidoreductase activity	MOLECULAR_FUNCTION	9.73E-05	2.18E-07	Nacional
+GO:0044255	cellular lipid metabolic process	BIOLOGICAL_PROCESS	1.03E-04	2.37E-07	Nacional
+GO:0070887	cellular response to chemical stimulus	BIOLOGICAL_PROCESS	1.21E-04	2.85E-07	Nacional
+GO:0051259	protein complex oligomerization	BIOLOGICAL_PROCESS	1.53E-04	3.68E-07	Nacional
+GO:0030054	cell junction	CELLULAR_COMPONENT	1.77E-04	4.34E-07	Nacional
+GO:0042304	regulation of fatty acid biosynthetic process	BIOLOGICAL_PROCESS	1.96E-04	4.99E-07	Nacional
+GO:0009791	post-embryonic development	BIOLOGICAL_PROCESS	1.96E-04	5.21E-07	Nacional
+GO:0009506	plasmodesma	CELLULAR_COMPONENT	1.96E-04	5.17E-07	Nacional
+GO:0055044	symplast	CELLULAR_COMPONENT	1.96E-04	5.17E-07	Nacional
+GO:0032787	monocarboxylic acid metabolic process	BIOLOGICAL_PROCESS	3.00E-04	8.15E-07	Nacional
+GO:0045471	response to ethanol	BIOLOGICAL_PROCESS	3.57E-04	9.88E-07	Nacional
+GO:0005737	cytoplasm	CELLULAR_COMPONENT	3.66E-04	1.03E-06	Nacional
+GO:0010038	response to metal ion	BIOLOGICAL_PROCESS	4.53E-04	1.30E-06	Nacional
+GO:0045723	positive regulation of fatty acid biosynthetic process	BIOLOGICAL_PROCESS	6.72E-04	1.97E-06	Nacional
+GO:0071456	cellular response to hypoxia	BIOLOGICAL_PROCESS	8.54E-04	2.54E-06	Nacional
+GO:0005507	copper ion binding	MOLECULAR_FUNCTION	0.001135894	3.44E-06	Nacional
+GO:0006631	fatty acid metabolic process	BIOLOGICAL_PROCESS	0.001145151	3.59E-06	Nacional
+GO:0045923	positive regulation of fatty acid metabolic process	BIOLOGICAL_PROCESS	0.001145151	3.54E-06	Nacional
+GO:0071944	cell periphery	CELLULAR_COMPONENT	0.001307475	4.16E-06	Nacional
+GO:0036294	cellular response to decreased oxygen levels	BIOLOGICAL_PROCESS	0.001308325	4.24E-06	Nacional
+GO:0009737	response to abscisic acid	BIOLOGICAL_PROCESS	0.001346967	4.43E-06	Nacional
+GO:0000302	response to reactive oxygen species	BIOLOGICAL_PROCESS	0.00145159	4.85E-06	Nacional
+GO:0008610	lipid biosynthetic process	BIOLOGICAL_PROCESS	0.001540719	5.23E-06	Nacional
+GO:0044815	DNA packaging complex	CELLULAR_COMPONENT	0.001739868	6.00E-06	Nacional
+GO:0080167	response to karrikin	BIOLOGICAL_PROCESS	0.001776248	6.21E-06	Nacional
+GO:0009644	response to high light intensity	BIOLOGICAL_PROCESS	0.001801423	6.40E-06	Nacional
+GO:0048316	seed development	BIOLOGICAL_PROCESS	0.002017396	7.27E-06	Nacional
+GO:0003006	developmental process involved in reproduction	BIOLOGICAL_PROCESS	0.002140609	7.82E-06	Nacional
+GO:0009408	response to heat	BIOLOGICAL_PROCESS	0.002174061	8.06E-06	Nacional
+GO:0005886	plasma membrane	CELLULAR_COMPONENT	0.002457416	9.24E-06	Nacional
+GO:0019217	regulation of fatty acid metabolic process	BIOLOGICAL_PROCESS	0.002539416	9.68E-06	Nacional
+GO:0042592	homeostatic process	BIOLOGICAL_PROCESS	0.002628291	1.02E-05	Nacional
+GO:0051716	cellular response to stimulus	BIOLOGICAL_PROCESS	0.00277765	1.09E-05	Nacional
+GO:0044283	small molecule biosynthetic process	BIOLOGICAL_PROCESS	0.00292416	1.16E-05	Nacional
+GO:0050789	regulation of biological process	BIOLOGICAL_PROCESS	0.002955939	1.21E-05	Nacional
+GO:0010200	response to chitin	BIOLOGICAL_PROCESS	0.002955939	1.22E-05	Nacional
+GO:0010154	fruit development	BIOLOGICAL_PROCESS	0.002955939	1.22E-05	Nacional
+GO:0044281	small molecule metabolic process	BIOLOGICAL_PROCESS	0.003343748	1.40E-05	Nacional
+GO:0051707	response to other organism	BIOLOGICAL_PROCESS	0.003353635	1.44E-05	Nacional
+GO:0043207	response to external biotic stimulus	BIOLOGICAL_PROCESS	0.003353635	1.44E-05	Nacional
+GO:0009266	response to temperature stimulus	BIOLOGICAL_PROCESS	0.00393551	1.71E-05	Nacional
+GO:0009605	response to external stimulus	BIOLOGICAL_PROCESS	0.004026823	1.77E-05	Nacional
+GO:0050636	vinorine synthase activity	MOLECULAR_FUNCTION	0.004229342	1.92E-05	Nacional
+GO:0072376	protein activation cascade	BIOLOGICAL_PROCESS	0.004229342	1.92E-05	Nacional
+GO:0071453	cellular response to oxygen levels	BIOLOGICAL_PROCESS	0.004229342	1.91E-05	Nacional
+GO:0018454	acetoacetyl-CoA reductase activity	MOLECULAR_FUNCTION	0.004770473	2.22E-05	Nacional
+GO:0045703	ketoreductase activity	MOLECULAR_FUNCTION	0.004770473	2.22E-05	Nacional
+GO:0009617	response to bacterium	BIOLOGICAL_PROCESS	0.005744274	2.70E-05	Nacional
+GO:0016166	phytoene dehydrogenase activity	MOLECULAR_FUNCTION	0.005968575	2.84E-05	Nacional
+GO:0005515	protein binding	MOLECULAR_FUNCTION	0.006004585	2.88E-05	Nacional
+GO:0099402	plant organ development	BIOLOGICAL_PROCESS	0.00693946	3.37E-05	Nacional
+GO:0000788	nuclear nucleosome	CELLULAR_COMPONENT	0.007367919	3.62E-05	Nacional
+GO:0065003	protein-containing complex assembly	BIOLOGICAL_PROCESS	0.009218766	4.60E-05	Nacional
+GO:0043436	oxoacid metabolic process	BIOLOGICAL_PROCESS	0.009218766	4.62E-05	Nacional
+GO:0016053	organic acid biosynthetic process	BIOLOGICAL_PROCESS	0.010660022	5.51E-05	Nacional
+GO:0042561	alpha-amyrin synthase activity	MOLECULAR_FUNCTION	0.010660022	5.47E-05	Nacional
+GO:0046394	carboxylic acid biosynthetic process	BIOLOGICAL_PROCESS	0.010660022	5.51E-05	Nacional
+GO:0043168	anion binding	MOLECULAR_FUNCTION	0.010799123	5.64E-05	Nacional
+GO:0006082	organic acid metabolic process	BIOLOGICAL_PROCESS	0.011538673	6.09E-05	Nacional
+GO:0046345	abscisic acid catabolic process	BIOLOGICAL_PROCESS	0.011654952	6.27E-05	Nacional
+GO:0043290	apocarotenoid catabolic process	BIOLOGICAL_PROCESS	0.011654952	6.27E-05	Nacional
+GO:0005576	extracellular region	CELLULAR_COMPONENT	0.011769627	6.51E-05	Nacional
+GO:0043933	protein-containing complex subunit organization	BIOLOGICAL_PROCESS	0.011769627	6.39E-05	Nacional
+GO:0009607	response to biotic stimulus	BIOLOGICAL_PROCESS	0.011769627	6.46E-05	Nacional
+GO:0019752	carboxylic acid metabolic process	BIOLOGICAL_PROCESS	0.011784919	6.58E-05	Nacional
+GO:0009987	cellular process	BIOLOGICAL_PROCESS	0.012041114	6.79E-05	Nacional
+GO:0009695	jasmonic acid biosynthetic process	BIOLOGICAL_PROCESS	0.013129991	7.47E-05	Nacional
+GO:0044464	cell part	CELLULAR_COMPONENT	0.013474628	7.74E-05	Nacional
+GO:0005623	cell	CELLULAR_COMPONENT	0.0136519	7.91E-05	Nacional
+GO:0043167	ion binding	MOLECULAR_FUNCTION	0.013824245	8.08E-05	Nacional
+GO:0048878	chemical homeostasis	BIOLOGICAL_PROCESS	0.014242946	8.40E-05	Nacional
+GO:0022607	cellular component assembly	BIOLOGICAL_PROCESS	0.014439154	8.59E-05	Nacional
+GO:0036293	response to decreased oxygen levels	BIOLOGICAL_PROCESS	0.014942793	8.97E-05	Nacional
+GO:0050821	protein stabilization	BIOLOGICAL_PROCESS	0.015156628	9.18E-05	Nacional
+GO:0046189	phenol-containing compound biosynthetic process	BIOLOGICAL_PROCESS	0.01519477	9.36E-05	Nacional
+GO:0044424	intracellular part	CELLULAR_COMPONENT	0.01519477	9.36E-05	Nacional
+GO:0043621	protein self-association	MOLECULAR_FUNCTION	0.016343051	1.02E-04	Nacional
+GO:0005622	intracellular	CELLULAR_COMPONENT	0.016343051	1.02E-04	Nacional
+GO:0050794	regulation of cellular process	BIOLOGICAL_PROCESS	0.016886687	1.07E-04	Nacional
+GO:0016107	sesquiterpenoid catabolic process	BIOLOGICAL_PROCESS	0.018259092	1.16E-04	Nacional
+GO:0009793	embryo development ending in seed dormancy	BIOLOGICAL_PROCESS	0.020781423	1.33E-04	Nacional
+GO:0007154	cell communication	BIOLOGICAL_PROCESS	0.020796488	1.35E-04	Nacional
+GO:0048608	reproductive structure development	BIOLOGICAL_PROCESS	0.021680389	1.42E-04	Nacional
+GO:0061458	reproductive system development	BIOLOGICAL_PROCESS	0.021827182	1.44E-04	Nacional
+GO:0009642	response to light intensity	BIOLOGICAL_PROCESS	0.02184084	1.45E-04	Nacional
+GO:0016165	linoleate 13S-lipoxygenase activity	MOLECULAR_FUNCTION	0.022008255	1.47E-04	Nacional
+GO:0009416	response to light stimulus	BIOLOGICAL_PROCESS	0.022346682	1.51E-04	Nacional
+GO:0031490	chromatin DNA binding	MOLECULAR_FUNCTION	0.023423452	1.59E-04	Nacional
+GO:0070482	response to oxygen levels	BIOLOGICAL_PROCESS	0.02425591	1.66E-04	Nacional
+GO:0006721	terpenoid metabolic process	BIOLOGICAL_PROCESS	0.026434354	1.83E-04	Nacional
+GO:0009314	response to radiation	BIOLOGICAL_PROCESS	0.026434354	1.84E-04	Nacional
+GO:0071310	cellular response to organic substance	BIOLOGICAL_PROCESS	0.026434354	1.85E-04	Nacional
+GO:0010294	abscisic acid glucosyltransferase activity	MOLECULAR_FUNCTION	0.026436428	1.86E-04	Nacional
+GO:0019748	secondary metabolic process	BIOLOGICAL_PROCESS	0.026578454	1.89E-04	Nacional
+GO:1990542	mitochondrial transmembrane transport	BIOLOGICAL_PROCESS	0.027578574	1.97E-04	Nacional
+GO:1902644	tertiary alcohol metabolic process	BIOLOGICAL_PROCESS	0.028718905	2.07E-04	Nacional
+GO:0046677	response to antibiotic	BIOLOGICAL_PROCESS	0.028737344	2.09E-04	Nacional
+GO:0051865	protein autoubiquitination	BIOLOGICAL_PROCESS	0.032189735	2.36E-04	Nacional
+GO:0022804	active transmembrane transporter activity	MOLECULAR_FUNCTION	0.032189735	2.37E-04	Nacional
+GO:0071806	protein transmembrane transport	BIOLOGICAL_PROCESS	0.032932522	2.44E-04	Nacional
+GO:0044550	secondary metabolite biosynthetic process	BIOLOGICAL_PROCESS	0.033931434	2.53E-04	Nacional
+GO:0032993	protein-DNA complex	CELLULAR_COMPONENT	0.034874213	2.62E-04	Nacional
+GO:0046890	regulation of lipid biosynthetic process	BIOLOGICAL_PROCESS	0.035162564	2.66E-04	Nacional
+GO:0000003	reproduction	BIOLOGICAL_PROCESS	0.035867578	2.77E-04	Nacional
+GO:0010597	green leaf volatile biosynthetic process	BIOLOGICAL_PROCESS	0.035867578	2.77E-04	Nacional
+GO:0019372	lipoxygenase pathway	BIOLOGICAL_PROCESS	0.035867578	2.77E-04	Nacional
+GO:0055082	cellular chemical homeostasis	BIOLOGICAL_PROCESS	0.036695765	2.85E-04	Nacional
+GO:0000166	nucleotide binding	MOLECULAR_FUNCTION	0.03690512	2.89E-04	Nacional
+GO:1901265	nucleoside phosphate binding	MOLECULAR_FUNCTION	0.037205926	2.93E-04	Nacional
+GO:0032870	cellular response to hormone stimulus	BIOLOGICAL_PROCESS	0.037576898	2.99E-04	Nacional
+GO:0009414	response to water deprivation	BIOLOGICAL_PROCESS	0.037576898	3.00E-04	Nacional
+GO:0036094	small molecule binding	MOLECULAR_FUNCTION	0.038336355	3.10E-04	Nacional
+GO:0001666	response to hypoxia	BIOLOGICAL_PROCESS	0.038336355	3.09E-04	Nacional
+GO:0080089	sinapoyl spermidine:sinapoyl CoA N-acyltransferase activity	MOLECULAR_FUNCTION	0.038828979	3.16E-04	Nacional
+GO:0010243	response to organonitrogen compound	BIOLOGICAL_PROCESS	0.039279346	3.22E-04	Nacional
+GO:1901698	response to nitrogen compound	BIOLOGICAL_PROCESS	0.039781183	3.28E-04	Nacional
+GO:0016746	transferase activity, transferring acyl groups	MOLECULAR_FUNCTION	0.040381445	3.35E-04	Nacional
+GO:0019725	cellular homeostasis	BIOLOGICAL_PROCESS	0.040670141	3.44E-04	Nacional
+GO:0042542	response to hydrogen peroxide	BIOLOGICAL_PROCESS	0.040670141	3.40E-04	Nacional
+GO:0071840	cellular component organization or biogenesis	BIOLOGICAL_PROCESS	0.040670141	3.44E-04	Nacional
+GO:0048367	shoot system development	BIOLOGICAL_PROCESS	0.042445562	3.63E-04	Nacional
+GO:0023052	signaling	BIOLOGICAL_PROCESS	0.042445562	3.63E-04	Nacional
+GO:0016043	cellular component organization	BIOLOGICAL_PROCESS	0.049348271	4.32E-04	Nacional
+GO:0002254	kinin cascade	BIOLOGICAL_PROCESS	0.049348271	4.35E-04	Nacional
+GO:0002353	plasma kallikrein-kinin cascade	BIOLOGICAL_PROCESS	0.049348271	4.35E-04	Nacional
+GO:0002154	thyroid hormone mediated signaling pathway	BIOLOGICAL_PROCESS	0.049348271	4.35E-04	Nacional
+GO:0002155	regulation of thyroid hormone mediated signaling pathway	BIOLOGICAL_PROCESS	0.049348271	4.35E-04	Nacional
+GO:0048037	cofactor binding	MOLECULAR_FUNCTION	0.049873124	4.43E-04	Nacional
+GO:0009901	anther dehiscence	BIOLOGICAL_PROCESS	0.049873124	4.45E-04	Nacional
+GO:0002094	polyprenyltransferase activity	MOLECULAR_FUNCTION	7.96E-05	4.16E-09	Nanay
+GO:0016094	polyprenol biosynthetic process	BIOLOGICAL_PROCESS	0.003904315	4.08E-07	Nanay
+GO:0010202	response to low fluence red light stimulus	BIOLOGICAL_PROCESS	0.00630478	9.88E-07	Nanay
+GO:0016093	polyprenol metabolic process	BIOLOGICAL_PROCESS	0.041605032	9.72E-06	Nanay
+GO:0004659	prenyltransferase activity	MOLECULAR_FUNCTION	0.041605032	1.74E-05	Nanay
+GO:1904423	dehydrodolichyl diphosphate synthase complex	CELLULAR_COMPONENT	0.041605032	1.59E-05	Nanay
+GO:0045547	dehydrodolichyl diphosphate synthase activity	MOLECULAR_FUNCTION	0.041605032	1.59E-05	Nanay
+GO:0007275	multicellular organism development	BIOLOGICAL_PROCESS	0.041605032	1.22E-05	Nanay
+GO:0005886	plasma membrane	CELLULAR_COMPONENT	0.043316183	2.49E-05	Nanay
+GO:1900140	regulation of seedling development	BIOLOGICAL_PROCESS	0.043316183	2.08E-05	Nanay
+GO:0071944	cell periphery	CELLULAR_COMPONENT	0.043316183	2.43E-05	Nanay
+GO:0032502	developmental process	BIOLOGICAL_PROCESS	0.04451225	2.79E-05	Nanay
+GO:0090351	seedling development	BIOLOGICAL_PROCESS	0.047999356	3.76E-05	Nanay
+GO:0048856	anatomical structure development	BIOLOGICAL_PROCESS	0.047999356	3.54E-05	Nanay
+GO:0032501	multicellular organismal process	BIOLOGICAL_PROCESS	0.047999356	3.54E-05	Nanay
