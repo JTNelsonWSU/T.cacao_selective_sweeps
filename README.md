@@ -9,5 +9,5 @@ This directory contains the script and input files needed to create the selectio
 ## /PCA_Correlations
 This directory contains two .html files that contain different correlation matrices for our climatic and edaphic variables.
 
-## /Enrichments
+## /T.cacao Enrichments
 This directory contains one file that lists all of the enrichented Gene Ontologies within selective sweep regions. The file also includes the P-value, FDR, and the population in which the enrichment was detected.
