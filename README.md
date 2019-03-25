@@ -3,7 +3,7 @@
 The following repository contains additional tables and figures from Nelson et al. (In Review) (Selective sweeps within T. cacao).
 This repository contains three different directories.....
 
-## /files_for_selection scans
+## /files_for_scans
 This directory contains the script and input files needed to create the selection scans from ICS data for each population.
 
 ## /PCA_Correlations
