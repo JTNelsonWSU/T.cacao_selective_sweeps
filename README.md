@@ -11,3 +11,12 @@ This directory contains two .html files that contain different correlation matri
 
 ## /T.cacao_Enrichments
 This directory contains one file that lists all of the enrichented Gene Ontologies within selective sweep regions. The file also includes the P-value, FDR, and the population in which the enrichment was detected.
+
+## /ICS_genes
+Contains a complete list of gene names that wre identified as selective sweeps from our composite analysis.
+
+## /GEA_genes
+Contains a complete list of genes that contained SNPs that were significantly associated with at least one climate or edaphic variable. 
+
+## /GEA_ICS_genes
+Contains a complete list of genes that contained SNPs that were significantly associated with at least one climate or edaphic variable and identified as an outlier from our composite analysis.
