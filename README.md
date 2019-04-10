@@ -20,3 +20,6 @@ Contains a complete list of genes that contained SNPs that were significantly as
 
 ## /GEA_ICS_genes
 Contains a complete list of genes that contained SNPs that were significantly associated with at least one climate or edaphic variable and identified as an outlier from our composite analysis.
+
+## /R_Genes_ICS
+Contains a complete list of all of the disease resistant genes that were identified in sweep regions from our composite analysis.
