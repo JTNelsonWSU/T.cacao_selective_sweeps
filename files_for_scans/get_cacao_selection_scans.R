@@ -6,10 +6,6 @@ library(ggplot2)
 
 
 Z2 <- read.table(paste("Z2.ICS.ame.txt"), header = T)   #You will need to change the file name depending on which population you wish to view.
-Zlog <- log10(Z2$ics.distance)
-Z2 <- cbind(Z2, Zlog)
-
-
 
 
 ggplot(data = Z2, aes(x = midpoint, y = Zlog,color=color)) + geom_point(size=1.0) + 
