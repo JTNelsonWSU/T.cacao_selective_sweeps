@@ -1,0 +1,2 @@
+BLDFIE.M.sl2	CECSOL.M.sl2	CLYPPT.M.sl5	CRFVOL.M.sl3	OCSTHA.M.sd2	PHIHOX.M.sl4	PHIKCL.M.sl3	SLTPPT.M.sl5	SNDPPT.M.sl4	TAXNWRB.Acric.Plinthosols	TAXNWRB.Albic.Arenosols	TAXNWRB.Ferralic.Arenosols	TAXNWRB.Haplic.Acrisols..Alumic.	TAXNWRB.Haplic.Cambisols	TAXNWRB.Haplic.Ferralsols	TAXNWRB.Haplic.Gleysols	TAXNWRB.Haplic.Nitisols..Rhodic.	TAXOUSDA.Aquepts
+8911	748	200	117	366	506	1294	1245	377	242	174	3354	37	38	1919	1447	1407	34
